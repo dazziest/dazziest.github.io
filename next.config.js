@@ -8,6 +8,7 @@ module.exports = withNextra({
   basePath: process.env.NEXT_PUBLIC_BASE_PATH,
   assetPrefix: process.env.NEXT_PUBLIC_BASE_PATH,
   swcMinify: false,
+  trailingSlash: true,
   // i18n: {
   //   locales: ['en', 'id'],
   //   defaultLocale: 'en'
