@@ -1,6 +1,6 @@
 export default {
   github: 'https://github.com/dazziest',
-  docsRepositoryBase: 'https://github.com/dazziest/my-notes',
+  docsRepositoryBase: 'https://github.com/dazziest/dazziest.github.io',
   branch: 'main',
   nextLinks: true,
   prevLinks: true,
