@@ -1,6 +1,7 @@
 {
   "index": { "title": "Home", "type": "nav", "hidden": true },
   "hobby": { "title": "Hobby", "type": "nav" },
+  "simple-log-reader": { "title": "iOS log", "type": "nav" },
   "development": { "title": "Software Development", "type": "nav" },
   "bookmarks": { "title": "Bookmarks", "type": "nav" },
   "misc": { "title": "misc", "type": "nav" }
